@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class TicTacToe2 {
+public class TicTacToe {
 	static ArrayList<Integer>playerPosition=new ArrayList<>();
 	static ArrayList<Integer>cpuPosition=new ArrayList<>();
 	private static int i;
